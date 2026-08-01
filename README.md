@@ -1,5 +1,6 @@
 # Nornir-Chest-Project-Recordings-Photos
 A collection of renders and short videos.
+NOTE: I am shipping this to recive hardware funding. The IRL photos are not of the completed chest, just a few of the 3D printed parts.
 
 <img width="4032" height="3024" alt="Photo" src="https://github.com/user-attachments/assets/18be5e42-b474-466b-8b73-99a3006bce21" />
 <img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/4207e6f5-6f49-4cc2-9483-2978e803751c" />
